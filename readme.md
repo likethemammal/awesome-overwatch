@@ -70,7 +70,7 @@ Curated list of official Overwatch links and community github repos, codepen dem
 
 ## Community
 
-> Projects, tools, and experiments developed by the community
+> Projects, tools, and experiments developed by the community 
 
 ### Chrome Extensions
 - [i-need-healing](https://chrome.google.com/webstore/detail/i-need-healing/ifjangmbmgigcbpejdbifapfdgkbnnpm), [Github](https://github.com/xuezhma/i-need-healing) - I am Genji. I need healing.  Chrome extension

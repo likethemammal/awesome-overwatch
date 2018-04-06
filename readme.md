@@ -1,15 +1,33 @@
 # Awesome Overwatch [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://awesome.re)
 
 <p align="center">
+  <br/>
   <a href="https://github.com/likethemammal/awesome-overwatch/">
-    <img alt="Overwatch Official Logo " src="logo.png" width="700">
+    <img alt="Overwatch Official Logo " src="logo.png" width="350">
   </a>
 </p>
 
-Curated list of official overwatch links and community overwatch github repos, codepen demos, and chrome extensions that are tools, experiments, open-source.
+Curated list of official Overwatch links and community github repos, codepen demos, and chrome extensions
 
+## Contents
+- [Official](#official)
+    - [Overwatch](#overwatch)
+    - [Overwatch League](#overwatch-league)
+    - [Overwatch Contenders](#overwatch-contenders)
+    - [Overwatch World Cup](#overwatch-world-cup)
+    - [Talks](#talks)
+- [Community](#community)
+    - [Chrome Extensions](#chrome-extensions)
+    - [Codepen](#codepen)
+    - [Github](#github)
+    - [Others](#other)
+- [License](#license)
 
 ## Official
+
+> Links to official sites, media resources, and talks
+
+### Overwatch
 
 - [Website](https://playoverwatch.com)
 - [Twitch](https://www.twitch.tv/playoverwatch)
@@ -51,6 +69,24 @@ Curated list of official overwatch links and community overwatch github repos, c
 
 
 ## Community
+
+> Projects, tools, and experiments developed by the community
+
+### Chrome Extensions
+- [i-need-healing](https://chrome.google.com/webstore/detail/i-need-healing/ifjangmbmgigcbpejdbifapfdgkbnnpm), [Github](https://github.com/xuezhma/i-need-healing) - I am Genji. I need healing.  Chrome extension
+- [sounds-of-github](https://chrome.google.com/webstore/detail/sounds-of-github/dahmkeokilolnpmidacepocehjjhbhnp?hl=en-US&gl=US), [Github](https://github.com/cheshire137/sounds-of-github) - This is a Chrome extension to play sound effects whenever you leave a reaction on GitHub.
+
+### Codepen
+
+- [Overwatch Hero Gallery](https://web.archive.org/web/20180326123314/https://codepen.io/TunaSurf/full/WXjyGE/) - Most fleshed out version of the hero gallery on Codepen
+- [Pure CSS Tracer](https://web.archive.org/web/20180326123756/https://codepen.io/bentok/full/qNZjxv/) - Pure CSS Tracer inspired logo
+- [Overwatch Snow 2017](https://web.archive.org/web/20180326123836/https://codepen.io/mmolad/full/wpvYLK/) - Overwatch snow recreatd in pure css
+- [Overwatch Snow Effect](https://web.archive.org/web/20180326124102/https://codepen.io/mmolad/full/JGYNaV/) - Overwatch snow recreatd in pure css
+- [Overwatch Pixel Sprays in HTML/CSS](https://web.archive.org/web/20180326123914/https://codepen.io/rspilhaus/full/zwgMwd/) - Recreating pixel sprays using CSS box-shadow pixel art technique
+- [overwatch logo](https://web.archive.org/web/20180326124409/https://codepen.io/SkyHolder/full/boPNqj/) - Overwatch logo recreated in pure CSS
+- [Overwatch (logo)](https://web.archive.org/web/20180326124238/https://codepen.io/stix/full/bpJoLy/) - Overwatch logo recreated in pure CSS
+- [Overwatch Main Menu](https://web.archive.org/web/20170524173713/http://codepen.io:80/KuroNoDev/full/YVRrNq) - Main menu for the game recreated in html and css. Even has chat (I need healing!)
+- [Overwatch Mode Select Screen](https://web.archive.org/web/20180326125031/https://codepen.io/jjmartucci/full/xOKewL/) - Mode select screen after main menu recreated
 
 ### Github
 
@@ -114,23 +150,6 @@ Curated list of official overwatch links and community overwatch github repos, c
 #### Bots
 - [ow-dancing-bot](https://github.com/aechaves/ow-dancing-bot) - I post Mercy dancing clips and hope to post more heroes and music someday. 
 - [peanut-botter](https://github.com/niksudan/peanut-botter) - 🎮 Discord bot for Overwatch
-
-
-### Chrome Extensions
-- [i-need-healing](https://chrome.google.com/webstore/detail/i-need-healing/ifjangmbmgigcbpejdbifapfdgkbnnpm), [Github](https://github.com/xuezhma/i-need-healing) - I am Genji. I need healing.  Chrome extension
-- [sounds-of-github](https://chrome.google.com/webstore/detail/sounds-of-github/dahmkeokilolnpmidacepocehjjhbhnp?hl=en-US&gl=US), [Github](https://github.com/cheshire137/sounds-of-github) - This is a Chrome extension to play sound effects whenever you leave a reaction on GitHub.
-
-### Codepen
-
-- [Overwatch Hero Gallery](https://web.archive.org/web/20180326123314/https://codepen.io/TunaSurf/full/WXjyGE/) - Most fleshed out version of the hero gallery on Codepen
-- [Pure CSS Tracer](https://web.archive.org/web/20180326123756/https://codepen.io/bentok/full/qNZjxv/) - Pure CSS Tracer inspired logo
-- [Overwatch Snow 2017](https://web.archive.org/web/20180326123836/https://codepen.io/mmolad/full/wpvYLK/) - Overwatch snow recreatd in pure css
-- [Overwatch Snow Effect](https://web.archive.org/web/20180326124102/https://codepen.io/mmolad/full/JGYNaV/) - Overwatch snow recreatd in pure css
-- [Overwatch Pixel Sprays in HTML/CSS](https://web.archive.org/web/20180326123914/https://codepen.io/rspilhaus/full/zwgMwd/) - Recreating pixel sprays using CSS box-shadow pixel art technique
-- [overwatch logo](https://web.archive.org/web/20180326124409/https://codepen.io/SkyHolder/full/boPNqj/) - Overwatch logo recreated in pure CSS
-- [Overwatch (logo)](https://web.archive.org/web/20180326124238/https://codepen.io/stix/full/bpJoLy/) - Overwatch logo recreated in pure CSS
-- [Overwatch Main Menu](https://web.archive.org/web/20170524173713/http://codepen.io:80/KuroNoDev/full/YVRrNq) - Main menu for the game recreated in html and css. Even has chat (I need healing!)
-- [Overwatch Mode Select Screen](https://web.archive.org/web/20180326125031/https://codepen.io/jjmartucci/full/xOKewL/) - Mode select screen after main menu recreated
 
 ### Other
 

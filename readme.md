@@ -41,6 +41,8 @@ Curated list of official Overwatch links and community github repos, codepen dem
 
 ### Overwatch League
 
+> The first major global esports league with city-based teams
+
 - [Website](https://overwatchleague.com)
 - [Twitch](https://www.twitch.tv/overwatchleague)
 - [App, Google Play](https://play.google.com/store/apps/details?id=com.blizzard.owl)
@@ -48,14 +50,20 @@ Curated list of official Overwatch links and community github repos, codepen dem
 
 ### Overwatch Contenders
 
+> A high-level tournament series for aspiring pro players who dream of ascending to the Overwatch League
+
 - [Website](https://contenders.playoverwatch.com/)
 
 ### Overwatch World Cup
+
+> The annual search for the strongest nation in the world 
 
 - [Website](https://worldcup.playoverwatch.com/en-us/)
 - [Youtube Playlist, 2017](https://www.youtube.com/playlist?list=PLAYFVhxsaqDswRoWUDCCRmakRxFMlJ2tQ)
 
 ### Talks
+
+> Industry experts, Blizzard developers, and official Overwatch team members discuss their process
 
 [GDC Search](http://www.gdcvault.com/search.php#&category=free&firstfocus=&keyword=overwatch&conference_id=)
 
@@ -73,10 +81,19 @@ Curated list of official Overwatch links and community github repos, codepen dem
 > Projects, tools, and experiments developed by the community 
 
 ### Chrome Extensions
-- [i-need-healing](https://chrome.google.com/webstore/detail/i-need-healing/ifjangmbmgigcbpejdbifapfdgkbnnpm), [Github](https://github.com/xuezhma/i-need-healing) - I am Genji. I need healing.  Chrome extension
-- [sounds-of-github](https://chrome.google.com/webstore/detail/sounds-of-github/dahmkeokilolnpmidacepocehjjhbhnp?hl=en-US&gl=US), [Github](https://github.com/cheshire137/sounds-of-github) - This is a Chrome extension to play sound effects whenever you leave a reaction on GitHub.
+
+> Enhance your daily browsing experience
+
+- [i-need-healing](https://chrome.google.com/webstore/detail/i-need-healing/ifjangmbmgigcbpejdbifapfdgkbnnpm), [[Github]](https://github.com/xuezhma/i-need-healing) - I am Genji. I need healing.  Chrome extension
+- [sounds-of-github](https://chrome.google.com/webstore/detail/sounds-of-github/dahmkeokilolnpmidacepocehjjhbhnp?hl=en-US&gl=US), [[Github]](https://github.com/cheshire137/sounds-of-github) - This is a Chrome extension to play sound effects whenever you leave a reaction on GitHub.
+- [Overwatch League Spoiler Toggle](https://chrome.google.com/webstore/detail/overwatch-league-spoiler/gpobbefkohjkdjepfnkginpnaaifilpm) - Allows visiters to overwatchleague.com to show/hide match spoilers
+- [Overwatch League Reminder](https://chrome.google.com/webstore/detail/overwatch-league-reminder/digohcafgieaejiembjcjnkcomejnhim) - Be informed of the date of the next match and notify when the stream starts
+- [Overwatch Contenders Reminder](https://chrome.google.com/webstore/detail/overwatch-contenders-remi/fpicgfdedklnoadapbkhnndllglaadpe) - Be informed of the date of the next Overwatch Contenders match and notify when the stream starts
+- [Overwatch Profile Search](https://chrome.google.com/webstore/detail/overwatch-profile-search/apkmoangdplpamkijkcapaiinookmaia) - Search on Overwatch profiles based on platform and region.
 
 ### Codepen
+
+> Live demos, recreations, and experiments
 
 - [Overwatch Hero Gallery](https://web.archive.org/web/20180326123314/https://codepen.io/TunaSurf/full/WXjyGE/) - Most fleshed out version of the hero gallery on Codepen
 - [Pure CSS Tracer](https://web.archive.org/web/20180326123756/https://codepen.io/bentok/full/qNZjxv/) - Pure CSS Tracer inspired logo
@@ -89,6 +106,8 @@ Curated list of official Overwatch links and community github repos, codepen dem
 - [Overwatch Mode Select Screen](https://web.archive.org/web/20180326125031/https://codepen.io/jjmartucci/full/xOKewL/) - Mode select screen after main menu recreated
 
 ### Github
+
+> Open-source repos for frameworks, projects, tools, demakes, and demos
 
 - [dvajs](https://github.com/dvajs/dva) - Lightweight front-end framework based on redux, redux-saga and react-router. (Inspired by elm and choo).
 - [react-overwatch-picker](https://github.com/johnrjj/react-overwatch-picker) - Overwatch Hero Picker in React.
@@ -121,13 +140,22 @@ Curated list of official Overwatch links and community github repos, codepen dem
 - [Overwatch_theme](https://github.com/Matthaz/Overwatch_theme) - Overwatch theme for Discord
 - [overwatchop](https://github.com/freehealthcare/overwatchop) - Omnic - An Overwatch Strategy App
 - [owl-ranking](https://github.com/itsnhduc/owl-ranking) - Detailed OWL Ranking
+- [heropicker](https://github.com/ufo22940268/heropicker) - Automatically pick a hero in overwatch. Auto Hotkey (ahk)
+- [overwatch-team-balancer](https://github.com/seanmarthur/overwatch-team-balancer) - Given a set of battle tags, attempts to balance based on their current competitive SR
+- [OverwatchCounters](https://github.com/andrewkarch/OverwatchCounters) - Overwatch Team Generator
 
 #### AI / Machine Learning (ML)
+
+> AI principles and practices applied to Overwatch
+
 - [C0derwatch](http://www.c0derwatch.com/) - Uses deep learning to analyze how games should go
 - [OverwatchML](https://github.com/sshh12/OverwatchML) - Overwatch + AI
 - [OverwatchRankingProject](https://github.com/gaaliciA1990/OverwatchRankingsProject) - The goal is to create a predictive model for competitive ranking
 
 #### APIs
+
+> Unofficial NodeJS, GraphQL, Go, JSON, and RESTful APIs
+
 - [overwatch-api](https://github.com/alfg/overwatch-api) - 🌎 An Unofficial Overwatch HTTP API 
 - [infra-sight](https://github.com/aidant) - An unofficial API for Overwatch
 - [overwatch-api](https://github.com/jamesmcfadden/overwatch-api) - A RESTful API for the Overwatch Game
@@ -138,30 +166,37 @@ Curated list of official Overwatch links and community github repos, codepen dem
 - [overwatch-webapi](https://github.com/gclem/overwatch-webapi) - Overwatch JSON API Hosting based on overwatch-js npm package functionnalities
 - [ovrstat](https://github.com/sdwolfe32/ovrstat) - 🎮 A Fast and Detailed Unofficial Overwatch Stats API written in Go
 - [OWLeagueLib](https://github.com/overtools/OWLeagueLib) - An easy-to-use library for interacting with the Overwatch League web API
-- [OverwatchCounters](https://github.com/andrewkarch/OverwatchCounters) - Overwatch Team Generator
-- [heorpicker](https://github.com/ufo22940268/heropicker) - Automatically pick a hero in overwatch. Auto Hotkey (ahk)
-- [overwatch-team-balancer](https://github.com/seanmarthur/overwatch-team-balancer) - Given a set of battle tags, attempts to balance based on their current competitive SR
+
+#### Bots
+
+> Discord and Twitter bots. Not aim bots.
+
+- [ow-dancing-bot](https://github.com/aechaves/ow-dancing-bot) - I post Mercy dancing clips and hope to post more heroes and music someday. 
+- [peanut-botter](https://github.com/niksudan/peanut-botter) - 🎮 Discord bot for Overwatch
 
 #### Lighting
+
+> Keyboard and setup lighting with Overwatch integration
+
 - [overlights](https://github.com/bengreenier/overlights) - reactive overwatch lighting
 - [Aurora](https://github.com/antonpup/Aurora) - Unified lighting effects across multiple brands and various games.
 
 
-#### Bots
-- [ow-dancing-bot](https://github.com/aechaves/ow-dancing-bot) - I post Mercy dancing clips and hope to post more heroes and music someday. 
-- [peanut-botter](https://github.com/niksudan/peanut-botter) - 🎮 Discord bot for Overwatch
-
 ### Other
-
-#### Trello
-
-- [Omnic](https://trello.com/b/esR6xVgp/%F0%9F%A4%96-omnic) - Trello Board for the 'Omnic' app.
-- [I Need A Hero](https://trello.com/b/7pb5hLHX) - Trello Board for 'I Need A Hero' app.
 
 #### 3D Models
 
+> Open models for levels, weapons, heros, effects, and more
+
 - [3d warehouse](https://3dwarehouse.sketchup.com/search/?backendClass=entity&q=%23Overwatch)
 - [Sketchfab](https://sketchfab.com/search?q=overwatch&sort_by=-pertinence&type=models)
+
+#### Trello
+
+> Trello boards for open-source project
+
+- [Omnic](https://trello.com/b/esR6xVgp/%F0%9F%A4%96-omnic) - Trello Board for the 'Omnic' app.
+- [I Need A Hero](https://trello.com/b/7pb5hLHX) - Trello Board for 'I Need A Hero' app.
 
 ## License
 

@@ -45,7 +45,7 @@ Curated list of official Overwatch links and community github repos, codepen dem
 
 - [Website](https://overwatchleague.com)
 - [Twitch](https://www.twitch.tv/overwatchleague)
-- [App, Google Play](https://play.google.com/store/apps/details?id=com.blizzard.owl)
+- [App (Google Play)](https://play.google.com/store/apps/details?id=com.blizzard.owl)
 
 
 ### Overwatch Contenders
@@ -97,8 +97,8 @@ Curated list of official Overwatch links and community github repos, codepen dem
 
 - [Overwatch Hero Gallery](https://web.archive.org/web/20180326123314/https://codepen.io/TunaSurf/full/WXjyGE/) - Most fleshed out version of the hero gallery on Codepen
 - [Pure CSS Tracer](https://web.archive.org/web/20180326123756/https://codepen.io/bentok/full/qNZjxv/) - Pure CSS Tracer inspired logo
-- [Overwatch Snow 2017](https://web.archive.org/web/20180326123836/https://codepen.io/mmolad/full/wpvYLK/) - Overwatch snow recreatd in pure css
-- [Overwatch Snow Effect](https://web.archive.org/web/20180326124102/https://codepen.io/mmolad/full/JGYNaV/) - Overwatch snow recreatd in pure css
+- [Overwatch Snow 2017](https://web.archive.org/web/20180326123836/https://codepen.io/mmolad/full/wpvYLK/) - Overwatch snow recreated in pure css
+- [Overwatch Snow Effect](https://web.archive.org/web/20180326124102/https://codepen.io/mmolad/full/JGYNaV/) - Overwatch snow recreated in pure css
 - [Overwatch Pixel Sprays in HTML/CSS](https://web.archive.org/web/20180326123914/https://codepen.io/rspilhaus/full/zwgMwd/) - Recreating pixel sprays using CSS box-shadow pixel art technique
 - [overwatch logo](https://web.archive.org/web/20180326124409/https://codepen.io/SkyHolder/full/boPNqj/) - Overwatch logo recreated in pure CSS
 - [Overwatch (logo)](https://web.archive.org/web/20180326124238/https://codepen.io/stix/full/bpJoLy/) - Overwatch logo recreated in pure CSS

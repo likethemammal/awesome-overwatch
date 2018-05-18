@@ -148,6 +148,7 @@ Curated list of official Overwatch links and community Github repos, Codepen dem
 - [overwatch-settings-stepper](https://github.com/likethemammal/overwatch-settings-stepper) - A React component modeling the Overwatch Settings the stepper and toggle UI elements.
 - [overwatch-table](https://github.com/likethemammal/overwatch-table) - A React component modeling the Overwatch custom game table element.
 - [overwatch-side-nav](https://github.com/likethemammal/overwatch-side-nav) - A React component modeling the Official Overwatch website side-navigation.
+- [dva-heart-emote](https://github.com/likethemammal/dva-heart-emote) - A WebGL remake of the heart container animation from D.Va's emote.
 
 #### AI / Machine Learning (ML)
 

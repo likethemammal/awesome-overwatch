@@ -9,6 +9,8 @@
 
 Curated list of official Overwatch links and community Github repos, Codepen demos, and Chrome extensions.
 
+[**Read the blog post for some of the highlights.**](https://medium.com/p/what-i-found-curating-awesome-overwatch-c566c078acaf)
+
 ## Contents
 - [Official](#official)
     - [Overwatch](#overwatch)

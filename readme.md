@@ -125,6 +125,7 @@ Curated list of official Overwatch links and community Github repos, Codepen dem
 - [tracer-abilities](https://github.com/javabird25/tracer-abilities) - This addon for Garry's Mod lets you to use the abilities of Tracer from Overwatch.
 - [overwatch-spray-extract](https://github.com/knkcni/overwatch-spray-extract) - An easy way to get every sprays from Overwatch using Docker.
 - [McCree-Hammershot](https://github.com/dmadison/McCree-Hammershot) - Code and other files for the McCree Hammershot controller.
+- [widoughmaker](https://github.com/rudeism/widoughmaker) - Arduino code for building a custom controller for Widowmaker!
 - [Overwatch-Stream-Rank-Overlay](https://github.com/Kataiser/Overwatch-Stream-Rank-Overlay) - Displays Overwatch comp rank on stream.
 - [I-Need-a-Hero](https://github.com/Kataiser/I-Need-a-Hero) - Automatic hero suggester for Overwatch.
 - [NerfThis](https://github.com/thisiswhale/NerfThis) - A database that allows players to submit their win/loss games. As a collective whole, it will suggests best heroes to play based on selected parameters.

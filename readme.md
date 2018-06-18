@@ -134,7 +134,7 @@ Curated list of official Overwatch links and community Github repos, Codepen dem
 - [STUTools](https://github.com/SombraOW/STUTools) - Automated deserialization of Overwatch's STU assets in C# and C++ (WIP).
 - [OWLib](https://github.com/overtools/OWLib) - Series of programs (tools) to interact with the Overwatch files.
 - [Overwatch-Item-Tracker](https://github.com/Js41637/Overwatch-Item-Tracker) - Track what event items you have unlocked.
-- [otg](https://github.com/omriiii/potg) - Overwatch Play of the Game screenshot generator.
+- [potg](https://github.com/omriiii/potg) - Overwatch Play of the Game screenshot generator.
 - [Underwatch](https://github.com/n33kos/underwatch/) - A Pico-8 objective based team shooter demake.
 - [OverwatchProgress](https://github.com/zjywill/OverwatchProgress) - An android loading view mock Overwatch style.
 - [OverWatchLoading](https://github.com/zhangyuChen1991/OverWatchLoading) - Overwatch Loading Animation.

@@ -165,6 +165,7 @@ Curated list of official Overwatch links and community Github repos, Codepen dem
 
 > Unofficial NodeJS, GraphQL, Go, JSON, and RESTful APIs.
 
+- [OWAPI](https://github.com/Fuyukai/OWAPI) - Overwatch JSON API.
 - [overwatch-api](https://github.com/alfg/overwatch-api) - 🌎 An Unofficial Overwatch HTTP API.
 - [infra-sight](https://github.com/aidant) - An unofficial API for Overwatch.
 - [overwatch-api](https://github.com/jamesmcfadden/overwatch-api) - A RESTful API for the Overwatch Game.

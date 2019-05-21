@@ -69,11 +69,21 @@ Curated list of official Overwatch links and community Github repos, Codepen dem
 
 [GDC Search](http://www.gdcvault.com/search.php#&category=free&firstfocus=&keyword=overwatch&conference_id=)
 
+#### 2018
+
 - [Tools Tutorial Day: Playtesting 'Overwatch'](http://www.gdcvault.com/play/1025012/Tools-Tutorial-Day-Playtesting-Overwatch)
+
+#### 2017
+- ['Overwatch' Gameplay Architecture and Netcode](https://www.gdcvault.com/play/1024001/-Overwatch-Gameplay-Architecture-and)
 - [Animation Bootcamp: The First Person Animation of 'Overwatch'](http://www.gdcvault.com/play/1024319/Animation-Bootcamp-The-First-Person)
+- [Networking Scripted Weapons and Abilities in 'Overwatch'](https://www.gdcvault.com/play/1024041/Networking-Scripted-Weapons-and-Abilities)
+- [Replay Technology in 'Overwatch': Kill Cam, Gameplay, and Highlights](https://www.gdcvault.com/play/1024053/Replay-Technology-in-Overwatch-Kill)
 - [The Animation Pipeline of 'Overwatch'](http://www.gdcvault.com/play/1024267/The-Animation-Pipeline-of-Overwatch)
 - [The Art of 'Overwatch': Evolving a Legacy](http://www.gdcvault.com/play/1024268/The-Art-of-Overwatch-Evolving)
+- [The Data Building Pipeline of 'Overwatch'](https://www.gdcvault.com/play/1024019/The-Data-Building-Pipeline-of)
 - [Thinking Globally: Building the Optimistic Future of 'Overwatch'](http://www.gdcvault.com/play/1024266/Thinking-Globally-Building-the-Optimistic)
+
+#### 2016
 - [Animation Bootcamp: Overwatch: How a Hero is Mei-d](http://www.gdcvault.com/play/1023473/Animation-Bootcamp-Overwatch-How-A)
 - [Overwatch - The Elusive Goal: Play by Sound](http://www.gdcvault.com/play/1023317/Overwatch-The-Elusive-Goal-Play)
 
